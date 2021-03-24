@@ -1,0 +1,14 @@
+LINKS ÚTEIS SOBRE O BLUEPILL
+
+The C Beginners Handbook 
+https://www.freecodecamp.org/news/the-c-beginners-handbook/
+
+ST Flasher
+https://github.com/stlink-org/stlink/releases
+
+Bluepill - Informações Gerais
+https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill
+
+Bluepill - Pinagem (easyEDA)
+https://easyeda.com/r3bers/STM32F103C8T6-Test-Board
+
