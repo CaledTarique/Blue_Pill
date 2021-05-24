@@ -1,2 +1,2 @@
 # Blue_Pill
-Circuito esquematico da placa blue pill feito no eagle, biblioteca do stm32f103c8t6, alguns links e pdf's sobre a placa.
+Circuito esquematico da placa blue pill e microtiva launchpad, feito no eagle, suas respectivas bibliotecas, alguns links e pdf's sobre as placas.
